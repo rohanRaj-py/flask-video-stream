@@ -1,9 +1,9 @@
-🎥 Flask Video Streaming Application
+# 🎥 Flask Video Streaming Application
 
 A real-time webcam streaming web application built using Flask and OpenCV.
 This project captures live video from your system camera and streams it directly to a web browser.
 
-🚀 Features
+##🚀 Features
 
 Live webcam streaming
 
@@ -17,7 +17,7 @@ Clean project structure
 
 Dependency management using requirements.txt
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Python 3.x
 
@@ -30,7 +30,7 @@ HTML
 
 Git & GitHub
 
-📂 Project Structure
+##📂 Project Structure
 flask-video-stream/
 
 ├── app.py  
